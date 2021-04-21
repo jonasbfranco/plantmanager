@@ -1,12 +1,35 @@
-npm install expo-cli --global
+
+```shell
+
+$ npm install expo-cli --global
+
+$ expo init plantmanager  
+
+$ expo start 
+
+$ expo install @expo/vector-icons
+
+$ expo install expo-font @expo-google-fonts/jost
+
+$ npm install --save @expo-google-fonts/jost
+
+$ expo install expo-app-loading
+
+$ npm install --save expo-app-loading
+
+$ 
 
 
-
-expo init plantmanager  
-
+```
 
 
-expo start 
+## Quando baixar do git
+
+```shell
+
+$ npm add expo
+
+```
 
 
 
